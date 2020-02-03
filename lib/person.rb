@@ -1,2 +1,2 @@
 
-def person
+def Person
