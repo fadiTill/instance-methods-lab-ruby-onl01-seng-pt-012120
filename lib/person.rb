@@ -1,6 +1,6 @@
 
-def Person
-  def method_name
-    
+class Person
+
+
   end
 end
