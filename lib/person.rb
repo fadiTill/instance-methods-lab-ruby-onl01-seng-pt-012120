@@ -2,5 +2,4 @@
 class Person
 
 
-  end
-end
+  
